@@ -123,6 +123,10 @@ header h1 {
         width: 100px;
         
     }
+    
+    .nav div {
+        width: 100%;
+    }
 
 }
 
